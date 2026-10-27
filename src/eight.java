@@ -1,0 +1,2 @@
+public class eight {
+}
